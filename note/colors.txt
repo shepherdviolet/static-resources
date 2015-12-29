@@ -1,0 +1,10 @@
+violet	#EE82EE
+thistle	#D8BFD8
+lavender #E6E6FA
+turquoise #40E0D0
+slate #6A5ACD
+cornflower #6495ED
+azure #F0FFFF
+crimson #DC143C
+ivory #FFFFF0
+linen #FAF0E6
