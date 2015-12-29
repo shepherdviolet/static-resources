@@ -1,9 +1,9 @@
-violet	#EE82EE
-thistle	#D8BFD8
-lavender #E6E6FA
-turquoise #40E0D0
-slate #6A5ACD
-cornflower #6495ED
+violet	#c082c0
+thistle	#d8bfd8
+lavender #e6e6fa
+turquoise #2ed8a8
+slate #6a5acd
+cornflower #6495ed
 azure #F0FFFF
 crimson #DC143C
 ivory #FFFFF0
