@@ -8,3 +8,4 @@ azure #F0FFFF
 crimson #DC143C
 ivory #FFFFF0
 linen #FAF0E6
+mint green 
